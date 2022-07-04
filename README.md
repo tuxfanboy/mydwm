@@ -1,6 +1,10 @@
 # mydwm
 My custom build of dwm.
 
+## Installation
+
+Run "make clean install" in the dwm directory.
+
 ## Screenshot
 ![DWM](https://github.com/tuxfanboy/mydwm/blob/main/screenshot.png)
 
